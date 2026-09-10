@@ -1,24 +1,58 @@
 # Bark
 
+[中文版本](./README.cn.md)
+
 Bark is an iOS App which allows you to push custom notifications to your iPhone
 
-- **Upstream**: <https://github.com/Finb/Bark>
-- **Homepage**: <https://bark.day.app>
-- **Latest release**: `` (n/a)
-- **Last commit**: 2026-09-04
-- **License**: MIT
-- **Stars**: 9049 · **Forks**: 699 · **Open issues**: 320 · **Contributors**: 18
+![Bark](https://repo.x-cmd.io/Bark.svg)
 
-## Installation
+## Install
 
 ```sh
 x install Bark
 ```
 
-See <https://x-cmd.com/install/Bark> for details.
+## Source
 
-## Data
+- **Upstream**: <https://github.com/Finb/Bark>
+- **Homepage**: <https://bark.day.app>
+- **License**: MIT
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
+## Popularity
 
-_Last regenerated: 2026-09-09T18:44:23Z._
+- **Stars**: 9,053 · **Forks**: 699 · **Open issues**: 320 · **Contributors**: 18
+
+## Totals (cumulative)
+
+- **Releases**: 0 · **Merged PRs**: 28 · **Open PRs**: 1 · **Closed issues**: 315 · **Open issues**: 5 · **Commits**: 606
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 1 | 1 | 0 | 1 | 10 |
+| 90d | 2026-06-12 | 0 | 2 | 1 | 6 | 3 | 14 |
+| 360d | 2025-09-15 | 0 | 5 | 1 | 37 | 3 | 108 |
+
+## Code size
+
+Total: **10,684** lines of code across **180** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Swift | 8,771 | 1,402 | 1,465 | 120 |
+| Json | 1,702 | 0 | 0 | 56 |
+| Python | 167 | 16 | 43 | 1 |
+| Svg | 24 | 0 | 0 | 2 |
+| Html | 20 | 3 | 4 | 1 |
+
+## Improve this data
+
+Install metadata for Bark lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `Bark` is missing, out of date, or installs incorrectly, please open an issue or PR there:
+
+- **Open an issue**: <https://github.com/x-cmd/install/issues/new>
+- **Edit the package entry**: <https://github.com/x-cmd/edit/main/Bark.yml> (or whichever path the index uses)
+
+The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
+
+_Snapshot: `data/card/260910.yml` · 2026-09-10T04:37:42Z._
