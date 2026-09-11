@@ -7,7 +7,7 @@ about:
   latestVersion: ""
   latestRelease: ""
   latestPrerelease: ""
-  collectedAt: 2026-09-11T04:36:33Z
+  collectedAt: 2026-09-11T20:33:38Z
 timeline:
   created: 2018-03-07
   lastCommit: 2026-09-04
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 
   lastPrerelease: 
 popularity:
-  star: 9059
+  star: 9069
   watcher: 45
   fork: 699
   release: 0
@@ -85,7 +85,7 @@ total:
   commit: 606
 ---
 path: /home/runner/.x-repo/github.com/Finb/Bark
-collectedAt: 2026-09-11T04:36:34Z
+collectedAt: 2026-09-11T20:33:39Z
 loc:
   Swift:
     code: 8771
