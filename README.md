@@ -32,7 +32,7 @@ Total: **10,684** lines of code across **180** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 9,057 · **Forks**: 699 · **Open issues**: 320 · **Contributors**: 18
+- **Stars**: 9,059 · **Forks**: 699 · **Open issues**: 320 · **Contributors**: 18
 
 ## Totals (cumulative)
 
@@ -58,4 +58,4 @@ Install metadata for Bark lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T00:15:57Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T04:36:37Z._
