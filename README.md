@@ -4,7 +4,7 @@
 
 Bark is an iOS App which allows you to push custom notifications to your iPhone
 
-[![x-cmd/install — Bark Code Quality Monitoring Repo Card](https://repo.x-cmd.io/Bark.svg)](https://x-cmd.com/install/Bark)
+[![x-cmd/install — Bark Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/Bark.svg)](https://x-cmd.com/install/Bark)
 
 ## Install
 
@@ -32,22 +32,22 @@ Total: **11,631** lines of code across **197** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 9,138 · **Forks**: 704 · **Open issues**: 321 · **Contributors**: 18
+- **Stars**: 9,156 · **Forks**: 707 · **Open issues**: 322 · **Contributors**: 18
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 28 · **Open PRs**: 1 · **Closed issues**: 316 · **Open issues**: 5 · **Commits**: 622
+- **Releases**: 0 · **Merged PRs**: 28 · **Open PRs**: 1 · **Closed issues**: 317 · **Open issues**: 5 · **Commits**: 623
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 1 | 1 | 0 | 1 | 24 |
-| last60d | 2026-07-24 | 0 | 1 | 1 | 1 | 1 | 26 |
-| 90d | 2026-06-24 | 0 | 2 | 1 | 5 | 2 | 27 |
-| last180d | 2026-03-26 | 0 | 2 | 1 | 14 | 3 | 46 |
-| 360d | 2025-09-27 | 0 | 5 | 1 | 32 | 3 | 119 |
-| last720d | 2024-10-02 | 0 | 11 | 1 | 96 | 3 | 290 |
+| 30d | 2026-08-24 | 0 | 1 | 1 | 1 | 1 | 25 |
+| last60d | 2026-07-25 | 0 | 1 | 1 | 2 | 1 | 27 |
+| 90d | 2026-06-25 | 0 | 2 | 1 | 6 | 2 | 28 |
+| last180d | 2026-03-27 | 0 | 2 | 1 | 15 | 3 | 47 |
+| 360d | 2025-09-28 | 0 | 5 | 1 | 33 | 3 | 120 |
+| last720d | 2024-10-03 | 0 | 11 | 1 | 97 | 3 | 291 |
 
 ## Improve this data
 
@@ -58,4 +58,4 @@ Install metadata for Bark lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T04:49:48Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T04:47:10Z._
