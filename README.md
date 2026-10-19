@@ -14,11 +14,11 @@ x install Bark
 
 ## Code insight
 
-Total: **11,779** lines of code across **200** files in the top 5 languages.
+Total: **11,892** lines of code across **202** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Swift | 9,484 | 1,436 | 1,552 | 130 |
+| Swift | 9,597 | 1,459 | 1,576 | 132 |
 | Json | 2,082 | 0 | 0 | 66 |
 | Python | 167 | 16 | 43 | 1 |
 | Svg | 24 | 0 | 0 | 2 |
@@ -32,22 +32,22 @@ Total: **11,779** lines of code across **200** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 9,318 · **Forks**: 718 · **Open issues**: 326 · **Contributors**: 19
+- **Stars**: 9,325 · **Forks**: 718 · **Open issues**: 326 · **Contributors**: 20
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 29 · **Open PRs**: 1 · **Closed issues**: 321 · **Open issues**: 5 · **Commits**: 631
+- **Releases**: 0 · **Merged PRs**: 30 · **Open PRs**: 1 · **Closed issues**: 322 · **Open issues**: 4 · **Commits**: 632
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-18 | 0 | 0 | 1 | 4 | 1 | 24 |
-| last60d | 2026-08-19 | 0 | 2 | 1 | 5 | 1 | 33 |
-| 90d | 2026-07-20 | 0 | 2 | 1 | 7 | 1 | 35 |
-| last180d | 2026-04-21 | 0 | 3 | 1 | 16 | 3 | 47 |
-| 360d | 2025-10-23 | 0 | 6 | 1 | 34 | 3 | 123 |
-| last720d | 2024-10-28 | 0 | 12 | 1 | 99 | 3 | 289 |
+| 30d | 2026-09-19 | 0 | 1 | 1 | 5 | 0 | 8 |
+| last60d | 2026-08-20 | 0 | 3 | 1 | 6 | 0 | 34 |
+| 90d | 2026-07-21 | 0 | 3 | 1 | 8 | 0 | 36 |
+| last180d | 2026-04-22 | 0 | 4 | 1 | 17 | 2 | 48 |
+| 360d | 2025-10-24 | 0 | 7 | 1 | 35 | 2 | 124 |
+| last720d | 2024-10-29 | 0 | 13 | 1 | 100 | 2 | 290 |
 
 ## Improve this data
 
@@ -58,4 +58,4 @@ Install metadata for Bark lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261018.yml` · 2026-10-18T04:21:28Z._
+_Snapshot: `data/card/261019.yml` · 2026-10-19T04:32:16Z._
