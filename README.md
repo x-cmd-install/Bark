@@ -32,22 +32,22 @@ Total: **14,111** lines of code across **232** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 9,582 · **Forks**: 763 · **Open issues**: 328 · **Contributors**: 25
+- **Stars**: 9,595 · **Forks**: 763 · **Open issues**: 329 · **Contributors**: 25
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 35 · **Open PRs**: 0 · **Closed issues**: 324 · **Open issues**: 4 · **Commits**: 645
+- **Releases**: 0 · **Merged PRs**: 35 · **Open PRs**: 0 · **Closed issues**: 324 · **Open issues**: 5 · **Commits**: 645
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 0 | 5 | 0 | 1 | 1 | 13 |
-| last60d | 2026-09-18 | 0 | 6 | 0 | 6 | 1 | 21 |
-| 90d | 2026-08-19 | 0 | 8 | 0 | 7 | 1 | 47 |
-| last180d | 2026-05-21 | 0 | 9 | 0 | 14 | 3 | 55 |
-| 360d | 2025-11-22 | 0 | 11 | 0 | 34 | 3 | 114 |
-| last720d | 2024-11-27 | 0 | 18 | 0 | 94 | 3 | 274 |
+| 30d | 2026-10-20 | 0 | 4 | 0 | 1 | 2 | 13 |
+| last60d | 2026-09-20 | 0 | 6 | 0 | 6 | 2 | 21 |
+| 90d | 2026-08-21 | 0 | 8 | 0 | 7 | 2 | 47 |
+| last180d | 2026-05-23 | 0 | 9 | 0 | 14 | 4 | 55 |
+| 360d | 2025-11-24 | 0 | 10 | 0 | 34 | 4 | 114 |
+| last720d | 2024-11-29 | 0 | 18 | 0 | 94 | 4 | 272 |
 
 ## Improve this data
 
@@ -58,4 +58,4 @@ Install metadata for Bark lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T07:55:50Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T07:34:04Z._
